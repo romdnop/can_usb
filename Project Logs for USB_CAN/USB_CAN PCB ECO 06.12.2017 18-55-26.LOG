@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=L1 Old Footprint=INDC2009L New Footprint=INDC4819X18N
+Added Member To Class: ClassName=PWR Member=Component C10 1uF
+Added Member To Class: ClassName=PWR Member=Component C11 1uF
+Added Member To Class: ClassName=PWR Member=Component C12 1uF
+Added Member To Class: ClassName=PWR Member=Component C13 100n
+Added Member To Class: ClassName=PWR Member=Component C14 100n
+Added Member To Class: ClassName=PWR Member=Component L1 
+Added Member To Class: ClassName=PWR Member=Component U3 AMS1117
