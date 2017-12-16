@@ -1,0 +1,15 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: D:\Altium\can_usb\output\cam.drl
+Format: 1.1
+Units: Metric (mm.)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.6000		16
+ 2 		0.8000		8
+ 3 		1.0000		11
+ 4 		3.0000		2

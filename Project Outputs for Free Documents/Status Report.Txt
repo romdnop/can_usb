@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 20:51:52 On 15.12.2017
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [USB_CAN.PcbDoc]
+   Generated File[USB_CAN.RUL]
+   Generated File[USB_CAN.EXTREP]
+   Generated File[USB_CAN.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 20:51:53 On 15.12.2017
