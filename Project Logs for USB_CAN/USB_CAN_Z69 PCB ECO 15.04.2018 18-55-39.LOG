@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=USB_DM Pin=U2-22
+Removed Pin From Net: NetName=USB_DP Pin=U2-25
+Change Component Footprint: Designator=Q1 Old Footprint=QUARTZ New Footprint=5032-2Pin_CRYSTAL
+Change Component Description : Designator=Q1 Old Description= New Description=Crystal oscillator
+Added Pin To Net: NetName=USB_DM Pin=U2-32
+Added Pin To Net: NetName=USB_DP Pin=U2-33
+Added Pin To Net: NetName=+3V3 Pin=U2-36

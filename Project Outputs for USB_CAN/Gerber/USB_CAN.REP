@@ -41,8 +41,8 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D11
-    D12
+    D15
+    D16
     D18
     D19
     D20
@@ -123,8 +123,8 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D32
-    D33
+    D36
+    D37
     D39
     D40
     D41
@@ -151,8 +151,8 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D11
-    D12
+    D15
+    D16
     D28
     D29
     D30

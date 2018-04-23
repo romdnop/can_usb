@@ -1,17 +1,9 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 15:08:48 On 16.12.2017
-
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [USB_CAN.PcbDoc]
-   Generated File[USB_CAN.TXT]
-   Generated File[USB_CAN.DRL]
-   Generated File[USB_CAN.LDP]
-   Generated File[USB_CAN.DRR]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [USB_CAN.PrjPcb]
 
 
-Files Generated   : 4
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 15:08:48 On 16.12.2017
+Finished Output Generation At 10:08:02 On 30.12.2017
