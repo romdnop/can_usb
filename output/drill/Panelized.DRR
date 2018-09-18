@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Panelized.PcbDoc   08.09.2018  19:23:12
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Panelized-RoundHoles.TXT
+ASCII SlotHoles File : Panelized-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      12mil (0.3mm)                                             Round             432       PTH        72.68inch (1845.95mm)
+T3      32mil (0.8mm)                                             Round             48        PTH        15.36inch (390.04mm)
+T4      35mil (0.9mm)                                             Round             48        PTH        13.76inch (349.50mm)
+T5      47mil (1.2mm)                                             Slot              24        PTH        34.08inch (865.65mm)
+T1      43mil (1.1mm)                                             Round             24        NPTH       12.52inch (318.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              576
+
+Total Processing Time (hh:mm:ss) : 00:00:01

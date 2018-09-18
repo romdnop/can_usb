@@ -1,0 +1,17 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 19:23:12 On 08.09.2018
+
+Output: Panelized drill
+Type  : NC Drill
+From  : PCB Document [Panelized.PcbDoc]
+   Generated File[Panelized-RoundHoles.TXT]
+   Generated File[Panelized-SlotHoles.TXT]
+   Generated File[Panelized.LDP]
+   Generated File[Panelized.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 19:23:13 On 08.09.2018

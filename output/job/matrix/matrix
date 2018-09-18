@@ -1,0 +1,93 @@
+
+STEP {
+    COL=2
+    NAME=cam_work
+}
+
+LAYER {
+    ROW=1
+    CONTEXT=BOARD
+    TYPE=SOLDER_MASK
+    NAME=panelized.gts
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=2
+    CONTEXT=BOARD
+    TYPE=SIGNAL
+    NAME=panelized.gtl
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=3
+    CONTEXT=BOARD
+    TYPE=SIGNAL
+    NAME=panelized.gbl
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=4
+    CONTEXT=BOARD
+    TYPE=SOLDER_MASK
+    NAME=panelized.gbs
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=5
+    CONTEXT=BOARD
+    TYPE=DRILL
+    NAME=panelized-roundholes.txt
+    POLARITY=POSITIVE
+    START_NAME=panelized.gtl
+    END_NAME=panelized.gbl
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=6
+    CONTEXT=BOARD
+    TYPE=DRILL
+    NAME=panelized-slotholes.txt
+    POLARITY=POSITIVE
+    START_NAME=panelized.gtl
+    END_NAME=panelized.gbl
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=7
+    CONTEXT=MISC
+    TYPE=DOCUMENT
+    NAME=panelized.gko
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=8
+    CONTEXT=MISC
+    TYPE=DOCUMENT
+    NAME=panelized.gm31
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}

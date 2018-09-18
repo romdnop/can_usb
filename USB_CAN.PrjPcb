@@ -48,7 +48,7 @@ AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -62,10 +62,10 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=0
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -79,10 +79,10 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=2
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -96,10 +96,10 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=3
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -140,40 +140,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=Project Outputs for USB_CAN\CAMtastic9.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
 DocumentPath=USB_CAN_Z69.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,76 +156,108 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVYNHXVM
 
+[Document8]
+DocumentPath=USB_TypeA.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IGNNELKW
+
+[Document9]
+DocumentPath=output\Panelized.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BYFLQKHO
+
+[Document10]
+DocumentPath=USB_TypeA.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document11]
+DocumentPath=output\CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for USB_CAN\NC Drill\USB_CAN.DRL
+DocumentPath=output\gerber\Panelized.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for USB_CAN\USB_CAN.DRL
+DocumentPath=output\gerber\Panelized.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for USB_CAN\NC Drill\USB_CAN.DRR
+DocumentPath=output\gerber\Panelized.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for USB_CAN\USB_CAN.DRR
+DocumentPath=output\gerber\Panelized.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for USB_CAN\Gerber\USB_CAN.EXTREP
+DocumentPath=output\gerber\Panelized.GM31
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for USB_CAN\Gerber\USB_CAN.GBL
+DocumentPath=output\gerber\Panelized.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for USB_CAN\Gerber\USB_CAN.GBP
+DocumentPath=output\gerber\Panelized.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for USB_CAN\Gerber\USB_CAN.GBS
+DocumentPath=output\gerber\Panelized.REP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for USB_CAN\Gerber\USB_CAN.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for USB_CAN\Gerber\USB_CAN.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for USB_CAN\Gerber\USB_CAN.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for USB_CAN\Gerber\USB_CAN.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for USB_CAN\NC Drill\USB_CAN.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for USB_CAN\USB_CAN.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for USB_CAN\Gerber\USB_CAN.REP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for USB_CAN\Gerber\USB_CAN.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for USB_CAN\NC Drill\USB_CAN.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for USB_CAN\USB_CAN.TXT
+DocumentPath=output\gerber\Panelized.RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -270,6 +268,9 @@ ReleaseItemId=
 Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1041,7 +1042,7 @@ Type48=1
 Type49=1
 
 [Electrical Rules Check]
-Type1=1
+Type1=0
 Type2=1
 Type3=2
 Type4=1
@@ -1200,88 +1201,82 @@ UpdateVariants=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=Connectors.SchLib
-ComponentDesignItemID0=CON_11
-ComponentSymbolReference0=CON_11
+ComponentDesignItemID0=CON_4
+ComponentSymbolReference0=CON_4
 ComponentUpdate0=0
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=Connectors.SchLib
-ComponentDesignItemID1=CON_4
-ComponentSymbolReference1=CON_4
+ComponentDesignItemID1=DB9F_EDGE
+ComponentSymbolReference1=DB9F_EDGE
 ComponentUpdate1=0
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=Connectors.SchLib
-ComponentDesignItemID2=TP
-ComponentSymbolReference2=TP
-ComponentUpdate2=0
+ComponentDesignItemID2=USB
+ComponentSymbolReference2=USB
+ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=Connectors.SchLib
-ComponentDesignItemID3=USB
-ComponentSymbolReference3=USB
+ComponentLibraryIdentifier3=DISCRETE.SchLib
+ComponentDesignItemID3=C_NONE_POLAR
+ComponentSymbolReference3=C_NONE_POLAR
 ComponentUpdate3=0
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=DISCRETE.SchLib
-ComponentDesignItemID4=C_NONE_POLAR
-ComponentSymbolReference4=C_NONE_POLAR
+ComponentDesignItemID4=CRYSTAL
+ComponentSymbolReference4=CRYSTAL
 ComponentUpdate4=0
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=DISCRETE.SchLib
-ComponentDesignItemID5=CRYSTAL
-ComponentSymbolReference5=CRYSTAL
+ComponentDesignItemID5=LED
+ComponentSymbolReference5=LED
 ComponentUpdate5=0
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=DISCRETE.SchLib
-ComponentDesignItemID6=FB
-ComponentSymbolReference6=FB
-ComponentUpdate6=1
+ComponentDesignItemID6=RES
+ComponentSymbolReference6=RES
+ComponentUpdate6=0
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=DISCRETE.SchLib
-ComponentDesignItemID7=LED
-ComponentSymbolReference7=LED
-ComponentUpdate7=0
+ComponentDesignItemID7=SW
+ComponentSymbolReference7=SW
+ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
 ComponentLibraryIdentifier8=DISCRETE.SchLib
-ComponentDesignItemID8=RES
-ComponentSymbolReference8=RES
-ComponentUpdate8=0
+ComponentDesignItemID8=SW_SMD
+ComponentSymbolReference8=SW_SMD
+ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=DISCRETE.SchLib
-ComponentDesignItemID9=SW
-ComponentSymbolReference9=SW
+ComponentLibraryIdentifier9=ICs.SchLib
+ComponentDesignItemID9=CDSOT23-SM712
+ComponentSymbolReference9=CDSOT23-SM712
 ComponentUpdate9=0
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=ICs.SchLib
-ComponentDesignItemID10=AMS1117
-ComponentSymbolReference10=AMS1117
-ComponentUpdate10=0
+ComponentDesignItemID10=MC78LC33NTRG
+ComponentSymbolReference10=MC78LC33NTRG
+ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=ICs.SchLib
-ComponentDesignItemID11=CDSOT23-SM712
-ComponentSymbolReference11=CDSOT23-SM712
+ComponentDesignItemID11=STM32F072C8T6
+ComponentSymbolReference11=STM32F072C8T6
 ComponentUpdate11=0
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=ICs.SchLib
-ComponentDesignItemID12=STM32F072C8T6
-ComponentSymbolReference12=STM32F072C8T6
+ComponentDesignItemID12=TJA1051
+ComponentSymbolReference12=TJA1051
 ComponentUpdate12=0
 ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=ICs.SchLib
-ComponentDesignItemID13=TJA1051
-ComponentSymbolReference13=TJA1051
-ComponentUpdate13=0
-ComponentIsDeviceSheet13=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1295,121 +1290,129 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
+ParameterName0=Case
 ParameterUpdate0=1
-ParameterName1=Component Kind
+ParameterName1=Comment
 ParameterUpdate1=1
-ParameterName2=ComponentLink1Description
+ParameterName2=Component Kind
 ParameterUpdate2=1
-ParameterName3=ComponentLink1URL
+ParameterName3=ComponentLink1Description
 ParameterUpdate3=1
-ParameterName4=ComponentLink2Description
+ParameterName4=ComponentLink1URL
 ParameterUpdate4=1
-ParameterName5=ComponentLink2URL
+ParameterName5=ComponentLink2Description
 ParameterUpdate5=1
-ParameterName6=ComponentLink3Description
+ParameterName6=ComponentLink2URL
 ParameterUpdate6=1
-ParameterName7=ComponentLink3URL
+ParameterName7=ComponentLink3Description
 ParameterUpdate7=1
-ParameterName8=Core
+ParameterName8=ComponentLink3URL
 ParameterUpdate8=1
-ParameterName9=DatasheetVersion
+ParameterName9=Core
 ParameterUpdate9=1
-ParameterName10=Description
+ParameterName10=DatasheetVersion
 ParameterUpdate10=1
-ParameterName11=FLASH Size (Prog) (kB)
+ParameterName11=Description
 ParameterUpdate11=1
-ParameterName12=I/Os (High Current)
+ParameterName12=FLASH Size (Prog) (kB)
 ParameterUpdate12=1
-ParameterName13=Internal RAM Size (kB)
+ParameterName13=HelpURL
 ParameterUpdate13=1
-ParameterName14=Library Reference
+ParameterName14=I/Os (High Current)
 ParameterUpdate14=1
-ParameterName15=Mounting Technology
+ParameterName15=Internal RAM Size (kB)
 ParameterUpdate15=1
-ParameterName16=Operating Frequency(F) (Processor speed) (MHz)
+ParameterName16=Library Reference
 ParameterUpdate16=1
-ParameterName17=PackageDescription
+ParameterName17=Manufacture
 ParameterUpdate17=1
-ParameterName18=PackageReference
+ParameterName18=Model
 ParameterUpdate18=1
-ParameterName19=PackageVersion
+ParameterName19=Mounting Technology
 ParameterUpdate19=1
-ParameterName20=Packing
+ParameterName20=Operating Frequency(F) (Processor speed) (MHz)
 ParameterUpdate20=1
-ParameterName21=PartNumber
+ParameterName21=PackageDescription
 ParameterUpdate21=1
-ParameterName22=Supplier 1
+ParameterName22=PackageReference
 ParameterUpdate22=1
-ParameterName23=Supplier 2
+ParameterName23=PackageVersion
 ParameterUpdate23=1
-ParameterName24=Supplier 3
+ParameterName24=Packing
 ParameterUpdate24=1
-ParameterName25=Supplier Part Number 1
+ParameterName25=PartNumber
 ParameterUpdate25=1
-ParameterName26=Supplier Part Number 2
+ParameterName26=Supplier 1
 ParameterUpdate26=1
-ParameterName27=Supplier Part Number 3
+ParameterName27=Supplier 2
 ParameterUpdate27=1
-ParameterName28=Supply Voltage(Vcc) min (V)
+ParameterName28=Supplier 3
 ParameterUpdate28=1
-ParameterName29=Value
+ParameterName29=Supplier Part Number 1
 ParameterUpdate29=1
+ParameterName30=Supplier Part Number 2
+ParameterUpdate30=1
+ParameterName31=Supplier Part Number 3
+ParameterUpdate31=1
+ParameterName32=Supply Voltage(Vcc) min (V)
+ParameterUpdate32=1
+ParameterName33=Value
+ParameterUpdate33=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=DIP_SW_1
+ModelName0=5032-2Pin_CRYSTAL
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=DSUB1.385-2H9A
+ModelName1=DIP_SW_1
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=DSUB1.385-2H9B
+ModelName2=DIP-SW/2.54/1
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=HEAD-1/4/2.54
+ModelName3=DSUB-9_F_Edge
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=INDC2009L
+ModelName4=HEAD-1/4/2.54
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=INDC4819X18N
+ModelName5=QUARTZ
 ModelUpdate5=1
 ModelType6=PCBLIB
-ModelName6=QUARTZ
+ModelName6=SCREW_TERM-5.0/4
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=SCREW_TERM-5.0/4
+ModelName7=SMD_0805
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=SMD_0805
+ModelName8=SMD_1206
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=SMD_1206
+ModelName9=SO8-150mil
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=SO8-150mil
+ModelName10=SOT23-3
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=SOT-223
+ModelName11=SOT753
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=SOT23-3
+ModelName12=STM-LQFP48_L
 ModelUpdate12=1
 ModelType13=PCBLIB
-ModelName13=STM-LQFP48_L
+ModelName13=SW_SLIDE
 ModelUpdate13=1
 ModelType14=PCBLIB
-ModelName14=SW_DIP1
+ModelName14=SW_SMD
 ModelUpdate14=1
 ModelType15=PCBLIB
-ModelName15=SW_TACT_3.5/6/6.5
+ModelName15=SWITCH
 ModelUpdate15=1
 ModelType16=PCBLIB
-ModelName16=TP
+ModelName16=USB/SM0.8-6H5
 ModelUpdate16=1
 ModelType17=PCBLIB
-ModelName17=USB/SM0.8-6H5
+ModelName17=USB/SM2.5-4H4
 ModelUpdate17=1
 ModelType18=PCBLIB
 ModelName18=USB2.5-2H4G
