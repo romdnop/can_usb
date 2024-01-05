@@ -2,7 +2,7 @@
 A simple USB to CAN converter based on STM32F072 MCU.\
 It is recomended to open the project in _Altium Designer v20.2.7_ but earlier versions can also be suitable.
 
-_NB: Also check my repositories for USB_CAN_MICRO, the micro version of the converter which PCB can fit into a standard DB-9 connector enclosure._
+Also check out a minituarised version of the converter: [USB_CAN_MICRO](https://github.com/romdnop/can_usb_micro) which PCB can fit into a standard DB-9 connector enclosure.
 
 # Schematics
 ![](images/Job1-1.jpg)
